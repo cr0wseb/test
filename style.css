@@ -1,0 +1,17 @@
+table {
+	width: 50%;
+	margin: 20px;
+}
+table tr td {
+	padding: 5px;
+}
+.title {
+	background-color : #C4C4C4;
+}
+.even {
+	background-color : #CEECF5;
+}
+
+.odd {
+	background-color: #F6CED8;
+}
